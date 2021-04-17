@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
   
   spec.name         = "ZRLibTest"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "ZRLibTest"
 
   spec.description  = "A long description of ZRLibTest"
@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "11.0"
 
   spec.source       = { :git => "https://github.com/TangGeV587/ZRLibTest.git", :tag => spec.version }
-
+  spec.requires_arc = true
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   spec.dependency 'YTKNetwork'
 end

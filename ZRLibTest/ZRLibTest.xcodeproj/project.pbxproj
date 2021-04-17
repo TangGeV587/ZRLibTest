@@ -83,8 +83,8 @@
 		4C760E742629CE0F008C1AF4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				4C760E752629CE0F008C1AF4 /* Student.m */,
 				4C760E762629CE0F008C1AF4 /* Student.h */,
+				4C760E752629CE0F008C1AF4 /* Student.m */,
 			);
 			name = Classes;
 			path = ../../Classes;
