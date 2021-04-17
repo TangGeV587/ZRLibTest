@@ -11,7 +11,7 @@
 @implementation Student
 
 -(void)study {
-    NSlog(@"test");
+    NSLog(@"test");
 }
 
 @end

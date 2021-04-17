@@ -14,6 +14,7 @@
 		4C760E672629CDFC008C1AF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C760E662629CDFC008C1AF4 /* Assets.xcassets */; };
 		4C760E6A2629CDFC008C1AF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C760E682629CDFC008C1AF4 /* LaunchScreen.storyboard */; };
 		4C760E6D2629CDFC008C1AF4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C760E6C2629CDFC008C1AF4 /* main.m */; };
+		4C760E79262AAFB4008C1AF4 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C760E752629CE0F008C1AF4 /* Student.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -160,6 +161,7 @@
 			files = (
 				4C760E622629CDF9008C1AF4 /* ViewController.m in Sources */,
 				4C760E5C2629CDF9008C1AF4 /* AppDelegate.m in Sources */,
+				4C760E79262AAFB4008C1AF4 /* Student.m in Sources */,
 				4C760E6D2629CDFC008C1AF4 /* main.m in Sources */,
 				4C760E5F2629CDF9008C1AF4 /* SceneDelegate.m in Sources */,
 			);
