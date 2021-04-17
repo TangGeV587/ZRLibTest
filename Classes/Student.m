@@ -10,4 +10,8 @@
 
 @implementation Student
 
+-(void)study {
+    NSlog(@"test");
+}
+
 @end
